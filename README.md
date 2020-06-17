@@ -12,15 +12,15 @@ Identify factors that might help predict popularity of the anime (without consid
 I used "Anime data" dataset from Kaggle provided by user [Canggih P Wibowo](https://www.kaggle.com/canggih/anime-data-score-staff-synopsis-and-genre).
 
 # Visuals
-![alt text](https://github.com/aza-atabayev/anime-pop-rating/blob/master/images/1.png?raw=true)
+![alt text](https://github.com/aza-atabayev/anime-rating-pop/blob/master/images/1.png?raw=true)
 
-![alt text](https://github.com/aza-atabayev/anime-pop-rating/blob/master/images/2.png?raw=true)
+![alt text](https://github.com/aza-atabayev/anime-rating-pop/blob/master/images/2.png?raw=true)
 
-![alt text](https://github.com/aza-atabayev/anime-pop-rating/blob/master/images/3.png?raw=true)
+![alt text](https://github.com/aza-atabayev/anime-rating-pop/blob/master/images/3.png?raw=true)
 
-![alt text](https://github.com/aza-atabayev/anime-pop-rating/blob/master/images/4.png?raw=true)
+![alt text](https://github.com/aza-atabayev/anime-rating-pop/blob/master/images/4.png?raw=true)
 
-![alt text](https://github.com/aza-atabayev/anime-pop-rating/blob/master/images/5.png?raw=true)
+![alt text](https://github.com/aza-atabayev/anime-rating-pop/blob/master/images/5.png?raw=true)
 
 # Conclusion
 ## Insights TV anime
